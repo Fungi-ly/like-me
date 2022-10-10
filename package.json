@@ -1,0 +1,11 @@
+{
+  "name": "Like-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}
